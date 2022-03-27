@@ -29,12 +29,17 @@ def topics_keyboard():
     itembtn6 = types.KeyboardButton('Як перевезти тварину в Ірландію')
     itembtn7 = types.KeyboardButton('Де, та що купувати в Ірландії')
     itembtn8 = types.KeyboardButton('Громадський транспорт')
-    itembtn9 = types.KeyboardButton('Медицина')
-    itembtn10 = types.KeyboardButton('Медицина')
-    itembtn11 = types.KeyboardButton('Медицина')
+    itembtn9 = types.KeyboardButton('Мені потрібна допомога')
+    itembtn10 = types.KeyboardButton('В мене ще є питання')
+    itembtn11 = types.KeyboardButton('Чати, канали та інші корисні ресурси')
     itembtn12 = types.KeyboardButton('Медицина')
-    itembtn13 = types.KeyboardButton('Зворотній зв’язок')
-    topics_keyboard.add(itembtn1, itembtn2, itembtn3, itembtn4, itembtn5, itembtn6, itembtn7, itembtn8, itembtn9, itembtn10, itembtn11, itembtn12, itembtn13)
+    itembtn13 = types.KeyboardButton('Медицина')
+    itembtn14 = types.KeyboardButton('Медицина')
+    itembtn15 = types.KeyboardButton('Медицина')
+    itembtn16 = types.KeyboardButton('Медицина')
+    itembtn17 = types.KeyboardButton('Медицина')
+    itembtn18 = types.KeyboardButton('Зворотній зв’язок')
+    topics_keyboard.add(itembtn1, itembtn2, itembtn3, itembtn4, itembtn5, itembtn6, itembtn7, itembtn8, itembtn9, itembtn10, itembtn11, itembtn12, itembtn13, itembtn14, itembtn15, itembtn16, itembtn17, itembtn18)
     return topics_keyboard
 
 

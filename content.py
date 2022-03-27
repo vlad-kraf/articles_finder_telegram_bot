@@ -3,7 +3,7 @@ topics_links = {
 "документи для в'їзду в ірландію": 
 """
 
-ДОКУМЕНТИ ДЛЯ В’ЇЗДУ В ІРЛАНДІЮ
+Документі необхідні для в’їзду до Ірландії\:
 
 На даний час Ірландія приймає:
 1\. Міжнародний паспорт, з біометрією або без неї, прострочений в тому числі\. 
@@ -18,65 +18,79 @@ topics_links = {
 \- Ні, зараз не потрібні\.
 """,
 
+
+
 "документи, які вам потрібні в ірландії": 
 """
 
-ДОКУМЕНТИ ЯКІ ПОТРІБНІ ВАМ В ІРЛАНДІЇ
+Список документів які потрібно мати в Ірландії\:
 
 1\. PPSN \(Personal Public Service Number\) \- аналогічний до нашого номера платника податків\. Зазвичай ви заповнюєте форму на нього в аеропорту\. Він потрібен вам для отримання всіх інших документів, при відкритті банківського рахунку, оренді житла та працевлаштуванні\. Він оформлюється на кожного члена сім’ї \(не виключаючи немовлят\) одразу в аєропорту або в найближчому до вас офісі INTREO \(знайдіть найближчий за гугл мапою\)\. Строк отримання: одразу або на протязі 2х тижнів за вашою поштовою адресою\. Не хвилюйтеся, надсилати документи поштою – це типово для Ірландії\. [Інструкція отримання PPSN\.](https://help\-ukraine\-ireland\.notion\.site/How\-to\-get\-a\-PPSN\-PPSN\-5eb6a10ab9bc4cc0ae465492fa08cc18\#998b833b06624700ad5055975b7b9045)
 2\. PSC \(Public Services Card\) \- це картка з вашим PPS номером та вашою фотографією\. Вона необхідна для реєстрації у державних структурах Ірландії, у тому числі онлайн\. Також може бути використана для вашої ідентифікації та підтвердження PPS номера за необхідності\. Оформлювати її спеціально не потрібноі: вона надійде за вашою поштовою адресою автоматично\. Строк отримання: до 10 рабочих діб \(ймовірно\)\. Скоріш за все ви отримаєте її паперовою поштою\.  
 3\. Жовтий лист – лист про тимчасовий захист строком на рік для кожного члена сім’ї\. Видають одразу в аєропорту або можна отримати у INTREO на Cork street\. Якщо поселення у віддалені райони \-  ситуації можуть бути різні, уточнюйте за місцем проживання\.
-4\. Medical card, потрібно [заповнити форму спеціально для Українців](https://www2\.hse\.ie/services/healthcare\-in\-ireland/ukr\-medical\-card\-application\-form\.pdf) "UKR Medical Card Application Form"\. Медична картка також прийде за поштовою адресою\.
+4\. Medical card, потрібно [завантажити ти заповнити pdf форму спеціально для Українців](https://www2\.hse\.ie/services/healthcare\-in\-ireland/ukr\-medical\-card\-application\-form\.pdf) "UKR Medical Card Application Form"\. Медична картка також прийде за поштовою адресою\.
 """,
+
+
 
 "робота":
 """
 
-РОБОТА
+Докладно про роботу в Ірладнії\:
 
 З PPSN ви можете працювати чи бути самозайнятим\. З великою вірогідністю після працевлаштування вас позбавлять соціальних виплат \(social welfare\), але це досі не підтверджено і буде розглядатись найближчим часом\.
 1\. [Де шукати роботу](https://heathered\-waxflower\-01d\.notion\.site/7f06e850f71349ebab5a9762f7c95a8d)
-2\. [Консультації з пошуку роботи](https://www\.northsidepartnership\.ie/local\-employment\-service\-launches\-job\-preparation\-work\-pack/)
+2\. [Агенство яке безкоштовно дає консультації з пошуку роботи](https://www\.northsidepartnership\.ie/local\-employment\-service\-launches\-job\-preparation\-work\-pack/)
 3\. [Шаблон резюме](https://docs\.google\.com/document/d/1T2SDo\-mLWQf6MX8D1MgLHcGP\_pbN4bpZtO\-SbGAqLEw/edit)
 4\. [Вакансіі для тих, хто не розмовляє англійською](https://docs\.google\.com/spreadsheets/d/12EKTPpZiYA1TfO7wTdTQV\-EKFXSZTpQVWfWUGxa4U7Q/edit)
 """,
 
+
+
 "медицина":
 """
 
-МЕДИЦИНА
+Як працює медицина в Ірландії\:
 
 1\. [Дуже детальна інструкція як отримати медичину допомогу в Ірландії](https://docs\.google\.com/document/u/0/d/12XnkCIxw9SsC8EUPFiY9dupguPxf0zZSdvYl1hjsQaA/mobilebasic)
-2\. [Як отримати медикаменти за призначенням в Ірландії](https://s3\.us\-west\-2\.amazonaws\.com/secure\.notion\-static\.com/c3b1b0cd\-9bf3\-4f3f\-b982\-ac5a2f07c514/I%D0%9D%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A6I%D0%AF\_%D0%B0%D0%BF%D1%82%D0%B5%D1%86i\.pdf?X\-Amz\-Algorithm\=AWS4\-HMAC\-SHA256&X\-Amz\-Content\-Sha256\=UNSIGNED\-PAYLOAD&X\-Amz\-Credential\=AKIAT73L2G45EIPT3X45%2F20220327%2Fus\-west\-2%2Fs3%2Faws4\_request&X\-Amz\-Date\=20220327T154232Z&X\-Amz\-Expires\=86400&X\-Amz\-Signature\=3037b8daee95fb8570c9a8ba2bb39d854720f65744526a50e7f896bee17be67d&X\-Amz\-SignedHeaders\=host&response\-content\-disposition\=filename%20%3D%22I%25D0%259D%25D0%25A1%25D0%25A2%25D0%25A0%25D0%25A3%25D0%259A%25D0%25A6I%25D0%25AF%2520%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2586i\.pdf%22&x\-id\=GetObject)
+2\. [Як отримати медикаменти за призначенням в Ірландії pdf інструкція](https://s3\.us\-west\-2\.amazonaws\.com/secure\.notion\-static\.com/c3b1b0cd\-9bf3\-4f3f\-b982\-ac5a2f07c514/I%D0%9D%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A6I%D0%AF\_%D0%B0%D0%BF%D1%82%D0%B5%D1%86i\.pdf?X\-Amz\-Algorithm\=AWS4\-HMAC\-SHA256&X\-Amz\-Content\-Sha256\=UNSIGNED\-PAYLOAD&X\-Amz\-Credential\=AKIAT73L2G45EIPT3X45%2F20220327%2Fus\-west\-2%2Fs3%2Faws4\_request&X\-Amz\-Date\=20220327T154232Z&X\-Amz\-Expires\=86400&X\-Amz\-Signature\=3037b8daee95fb8570c9a8ba2bb39d854720f65744526a50e7f896bee17be67d&X\-Amz\-SignedHeaders\=host&response\-content\-disposition\=filename%20%3D%22I%25D0%259D%25D0%25A1%25D0%25A2%25D0%25A0%25D0%25A3%25D0%259A%25D0%25A6I%25D0%25AF%2520%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2586i\.pdf%22&x\-id\=GetObject)
 """,
+
+
 
 "психологічна підтримка":
 """
 
-ПСИХОЛОГІЧНА ПІДТРИМКА
+Де можна отримати психологічну підтримку:
 
 Якщо вам потрібна психологічна підтримка, ви можете безкоштовно [отримати її тут\.](https://docs\.google\.com/spreadsheets/d/1hqiKyyJfvZSmP8Vg33hAbi3fjuy35LmUP4f280jxcXY/edit?fbclid\=IwAR1S72lnakfrBtQKRrYgnZ\-6VZ56hMAQ6Oq9dH\-Fi\-q4qkzbbGsyGOGyU6k)
 """,
 
+
+
 "як перевезти тварину в ірландію":"""
 
-ЯК ПЕРЕВЕЗТИ ТВАРИНУ В ІРЛАНДІЮ
+Правила ввозу тварин до Ірландії
 
-[Правила та способи ввезення](https://heathered\-waxflower\-01d\.notion\.site/1e75728dee3149eabc5ae778286bd1c1)
+Правила та способи ввезення [дивіться за посиланням](https://heathered\-waxflower\-01d\.notion\.site/1e75728dee3149eabc5ae778286bd1c1)
 """,
+
+
 
 "де, та що купувати в ірландії":
 """
-ДЕ, ТА ЩО КУПУВАТИ В ІРЛАНДІЇ
+Поради про те які товари та у яких магазинах краще шукати:
 
 [Список рекомендованих магазинів де ви зможете знайти все, що потрібно](https://help\-ukraine\-ireland\.notion\.site/Shops\-guide\-and\-discounts\-for\-Ukrainians\-446cbb2299114b58b7e8715b8a2b8f58)
 
 """,
 
+
+
 "громадський транспорт":
 """
 
-ГРОМАДСЬКИЙ ТРАНСПОРТ
+Громадський транспорт Ірландії працює так:
 
 Безкоштовний проїзд надає ірландська залізниця та міжміські автобуси для того, щоб людина дісталася кінцевого пункту своєї поїздки, коли вона тільки прибула в Ірландію\. 
 Наприклад, якщо ви прилетіли в Дублін, а житло знайшли десь в графстві Майо\.
@@ -85,16 +99,81 @@ topics_links = {
 
 """,
 
+
+
+"мені потрібна допомога":
+"""
+
+Якщо вам потрібна допомога, ви можете звернутися до:
+
+1\. Центр благодійності в Дубліні, де можна отримати одяг, іграшки та речі першої необхідності БЕЗКОШТОВНО\. При вході в магазин перевіряють, коли ви прибули, тому треба мати документ, який підтверджує дату прибуття  \- 44 Clarendon Street, D2, Dublin\.
+2\. Центр благодійності в Корку: Market St, Cloghmacsimon, Bandon, Co\. Cork та The SunFlower Midleton, Ireland P25 VR44
+3\. Підтримка [для мам, дитячі речі та візочки](https://www\.mums2mums\.ie/)
+4\. Якщо вам терміново потрібні ліки, [будь ласка, заповнюйте цю форму](https://forms\.gle/6kvAgRDX7Zq9hoXGA) 
+5\. Заповніть запит на [допомогу для волонтерів “Першого дня”](https://docs\.google\.com/forms/d/e/1FAIpQLSeEdBNX3mh\-7t\_APE\_65Wezm0r1\-Vu0TALKhn5rn6nh69KrWw/viewform?usp\=send\_form) 
+
+""",
+
+
+
+"в мене ще є питання":"""
+
+Якщо у вас залишились питання, пошукайте відповіді тут:
+
+1\. [FAQ від Українського кризового центру в Ірландії](https://help\-ukraine\-ireland\.notion\.site/FAQ\-9846d8ef1d8d4eefa2a6113dc2cc46be) 
+2\. [FAQ від волонтерської організації допомоги “першого дня”](https://docs\.google\.com/document/d/1BSCfl2HvXvwHz51SL1w413OrWroLS6\_9InhVy\-lTwd8/edit) 
+3\. [FAQ від центра благодійності “Паляниця”](https://palianytsiainireland\.wordpress\.com/) 
+
+""",
+
+
+
+"чати, канали та інші корисні ресурси":
+"""
+Українські чати в телеграмі:
+[Чат переселенців](https://t\.me/ukrainianinireland) 
+[Канал з основною інформацією](https://t\.me/helpinireland) 
+[Український кризовий центр](https://t\.me/volunteersneededireland) 
+[Бьюті\-майстри](https://t\.me/\+sbjpCKO\-JoI1OWJi)
+[Маркетологи України](https://t\.me/\+Tpq21wX9wsUyYWYy)
+[Канал для волонтерів](https://t\.me/\+dP4OhXF3A0QwZGZi)
+
+Українські групи в фб:
+https://www\.facebook\.com/groups/Ukrainians\.in\.Ireland
+https://www\.facebook\.com/groups/787279257984036 
+https://www\.facebook\.com/groups/151187490507560 
+
+Російськомовні чати в телеграмі:
+Флудилка — [ссылка на вступление](https://t\.me/\+Huo4ZjEABM8yYTM0) \(если не работает напишите @cee\_aitch\) Чат только для постоянно проживающих в Ирландии и для тех, у кого на руках документы для переезда\.
+Авто чат — [ссылка на вступление](https://t\.me/joinchat/ZFeJVBRJ2jM4NTk0)
+Детский чат — [ссылка на вступление](https://t\.me/joinchat/AApSpA\_SlHc\-b2jKwpEBOA)
+Чатик про питомцев — [ссылка на вступление](https://t\.me/joinchat/YmB0SCunt64zZTdk)
+Хобби\-чат — [@irhobby](http://t\.me/irhobby)
+Концертный чат — [@gigrlnd](http://t\.me/gigrlnd)
+Чат для жителей Лимерика — [@lmkgang](https://t\.me/lmkgang)
+Чат для жителей Корка — [@cozycork](https://t\.me/cozycork)
+Инвестиционный чат — [ссылка на вступление](https://t\.me/joinchat/BGHuqFFL79pkV5ItEQ\_hDA)
+Чат с гаражной распродажей — [@garage\_sale\_ie](https://t\.me/garage\_sale\_ie)
+IT чатик — [ссылка на вступление](https://t\.me/irelandIT)
+Лингвочат — [ссылка на вступление](https://t\.me/joinchat/VrQrJA9PIpYRb8Mf)
+
+""",
+
 "":"""""",
+
 "":"""""",
+
 "":"""""",
+
 "":"""""",
+
+"":"""""",
+
+"":"""""",
+
 "зворотній зв’язок":"""
 
-ЗВОРОТНІЙ ЗВ’ЯЗОК
-
 ​Якщо ви не знайшли тему, що вас цікавить, [розкажіть нам у формі\.](https://forms\.gle/qxUEtuRgr8vLxasW7) Ми зробимо все, щоб доповнити бота необхідною інформацією""",
-
 
 }
 
