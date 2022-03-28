@@ -33,12 +33,12 @@ def topics_keyboard():
                         types.KeyboardButton('Мені потрібна допомога'),
                         types.KeyboardButton('В мене ще є питання'),
                         types.KeyboardButton('Чати, канали та інші корисні ресурси'),
-                        types.KeyboardButton('Медицина'),
-                        types.KeyboardButton('Медицина'),
-                        types.KeyboardButton('Медицина'),
-                        types.KeyboardButton('Медицина'),
-                        types.KeyboardButton('Медицина'),
-                        types.KeyboardButton('Медицина'),
+                        types.KeyboardButton('Вивчення англійської'),
+                        types.KeyboardButton('Освіта для дітей'),
+                        types.KeyboardButton('Як дістатися до Ірландії'),
+                        types.KeyboardButton('Соціальні виплати'),
+                        types.KeyboardButton('Проживання'),
+                        types.KeyboardButton('Державні ресурси'),
                         types.KeyboardButton('Зворотній зв’язок'))
     return topics_keyboard
 
