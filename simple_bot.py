@@ -4,7 +4,7 @@ import os
 from content import topics_links
 
 
-# token = os.getenv('TOKEN')
+token = os.getenv('TOKEN')
 bot = TeleBot(token)
 
 
