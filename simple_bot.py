@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
-from config import token
-# import os
+#from config import token
+import os
 from content import topics_links
 
 
