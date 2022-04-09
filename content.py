@@ -34,9 +34,11 @@ topics_links = {
 
 З PPSN ви можете працювати чи бути самозайнятим\. З великою вірогідністю після працевлаштування вас позбавлять соціальних виплат \(social welfare\), але це досі не підтверджено і буде розглядатись найближчим часом\.
 1\. [Де шукати роботу](https://heathered\-waxflower\-01d\.notion\.site/7f06e850f71349ebab5a9762f7c95a8d)
-2\. [Агенство яке безкоштовно дає консультації з пошуку роботи](https://www\.northsidepartnership\.ie/local\-employment\-service\-launches\-job\-preparation\-work\-pack/)
-3\. [Шаблон резюме](https://docs\.google\.com/document/d/1T2SDo\-mLWQf6MX8D1MgLHcGP\_pbN4bpZtO\-SbGAqLEw/edit)
-4\. [Вакансіі для тих, хто не розмовляє англійською](https://docs\.google\.com/spreadsheets/d/12EKTPpZiYA1TfO7wTdTQV\-EKFXSZTpQVWfWUGxa4U7Q/edit)
+2\. [Шаблон резюме](https://docs\.google\.com/document/d/1T2SDo\-mLWQf6MX8D1MgLHcGP\_pbN4bpZtO\-SbGAqLEw/edit)
+3\. [Вакансіі для тих, хто не розмовляє англійською](https://docs\.google\.com/spreadsheets/d/12EKTPpZiYA1TfO7wTdTQV\-EKFXSZTpQVWfWUGxa4U7Q/edit) 
+4\. [Робота в Ірландії для спеціалістів із сфери бізнесу і технологій](https://t\.me/robotairlandia)
+5\. [Робота в Ірландії з мінімальною англійською](https://t\.me/house\_ie4ua\_chat)
+6\. [Робота та допомога українцям в Ірландії](https://www\.facebook\.com/groups/179415267343562/?ref\=share) 
 """,
 
 
@@ -90,11 +92,12 @@ topics_links = {
 
 Якщо вам потрібна допомога, ви можете звернутися до:
 
-1\.Паляниця \- центр благодійності в Дубліні, де можна отримати одяг, іграшки та речі першої необхідності БЕЗКОШТОВНО\. При вході в магазин перевіряють, коли ви прибули, тому треба мати документ, який підтверджує дату прибуття  \- [44 Clarendon Street, D2, Dublin](https://goo\.gl/maps/kBapwRtvxhhhiu4h6) 
-2\.[ЛімерикSacred Heart Catholic Church](https://maps\.app\.goo\.gl/bvim45rFfHSKmRLr7) Телефон \(061\) 315 812\. До 17:00 в будні, на вихідним \- під час служіння\. 
-3\. Підтримка [для мам, дитячі речі та візочки](https://www\.mums2mums\.ie/)
-4\. Якщо вам терміново потрібні ліки, [будь ласка, заповнюйте цю форму](https://forms\.gle/6kvAgRDX7Zq9hoXGA) 
-5\. Заповніть запит на [допомогу для волонтерів “Першого дня”](https://docs\.google\.com/forms/d/e/1FAIpQLSeEdBNX3mh\-7t\_APE\_65Wezm0r1\-Vu0TALKhn5rn6nh69KrWw/viewform?usp\=send\_form) 
+1\. [Інформаційна лінія українською мовою](https://www\.irishrefugeecouncil\.ie/ukrainian\-language\-information\-helpline)
+2\. Паляниця \- центр благодійності в Дубліні, де можна отримати одяг, іграшки та речі першої необхідності БЕЗКОШТОВНО\. При вході в магазин перевіряють, коли ви прибули, тому треба мати документ, який підтверджує дату прибуття  \- 44 Clarendon Street, D2, Dublin https://goo\.gl/maps/kBapwRtvxhhhiu4h6 
+3\. ЛімерикSacred Heart Catholic Church \(061\) 315 812, https://maps\.app\.goo\.gl/bvim45rFfHSKmRLr7 До 17:00 в будні, на вихідним \- під час служіння\. 
+4\. Центр благодійності в Корку: Market St, Cloghmacsimon, Bandon, Co\. Cork та The SunFlower Midleton, Ireland P25 VR44
+5\. [Підтримка для мам, дитячі речі та візочки](https://www\.mums2mums\.ie/)
+6\. [Якщо вам терміново потрібні ліки, будь ласка, заповнюйте цю форму](https://forms\.gle/6kvAgRDX7Zq9hoXGA) 
 
 """,
 
@@ -133,9 +136,6 @@ https://www\.facebook\.com/groups/151187490507560
 Чатик про питомцев — [ссылка на вступление](https://t\.me/joinchat/YmB0SCunt64zZTdk)
 Хобби\-чат — [@irhobby](http://t\.me/irhobby)
 Концертный чат — [@gigrlnd](http://t\.me/gigrlnd)
-Чат для жителей Лимерика — [@lmkgang](https://t\.me/lmkgang)
-Чат для жителей Корка — [@cozycork](https://t\.me/cozycork)
-Инвестиционный чат — [ссылка на вступление](https://t\.me/joinchat/BGHuqFFL79pkV5ItEQ\_hDA)
 Чат с гаражной распродажей — [@garage\_sale\_ie](https://t\.me/garage\_sale\_ie)
 IT чатик — [ссылка на вступление](https://t\.me/irelandIT)
 Лингвочат — [ссылка на вступление](https://t\.me/joinchat/VrQrJA9PIpYRb8Mf)
