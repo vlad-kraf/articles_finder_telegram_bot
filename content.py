@@ -48,6 +48,7 @@ topics_links = {
 
 1\. [Дуже детальна інструкція як отримати медичину допомогу в Ірландії](https://docs\.google\.com/document/u/0/d/12XnkCIxw9SsC8EUPFiY9dupguPxf0zZSdvYl1hjsQaA/mobilebasic)
 2\. [Як отримати медикаменти за призначенням в Ірландії pdf інструкція](https://s3\.us\-west\-2\.amazonaws\.com/secure\.notion\-static\.com/c3b1b0cd\-9bf3\-4f3f\-b982\-ac5a2f07c514/I%D0%9D%D0%A1%D0%A2%D0%A0%D0%A3%D0%9A%D0%A6I%D0%AF\_%D0%B0%D0%BF%D1%82%D0%B5%D1%86i\.pdf?X\-Amz\-Algorithm\=AWS4\-HMAC\-SHA256&X\-Amz\-Content\-Sha256\=UNSIGNED\-PAYLOAD&X\-Amz\-Credential\=AKIAT73L2G45EIPT3X45%2F20220327%2Fus\-west\-2%2Fs3%2Faws4\_request&X\-Amz\-Date\=20220327T154232Z&X\-Amz\-Expires\=86400&X\-Amz\-Signature\=3037b8daee95fb8570c9a8ba2bb39d854720f65744526a50e7f896bee17be67d&X\-Amz\-SignedHeaders\=host&response\-content\-disposition\=filename%20%3D%22I%25D0%259D%25D0%25A1%25D0%25A2%25D0%25A0%25D0%25A3%25D0%259A%25D0%25A6I%25D0%25AF%2520%25D0%25B0%25D0%25BF%25D1%2582%25D0%25B5%25D1%2586i\.pdf%22&x\-id\=GetObject)
+3\. [Якщо вам терміново потрібні ліки, будь ласка, заповнюйте цю форму](https://forms\.gle/6kvAgRDX7Zq9hoXGA) 
 """,
 
 
@@ -92,12 +93,21 @@ topics_links = {
 
 Якщо вам потрібна допомога, ви можете звернутися до:
 
-1\. [Інформаційна лінія українською мовою](https://www\.irishrefugeecouncil\.ie/ukrainian\-language\-information\-helpline)
-2\. Паляниця \- центр благодійності в Дубліні, де можна отримати одяг, іграшки та речі першої необхідності БЕЗКОШТОВНО\. При вході в магазин перевіряють, коли ви прибули, тому треба мати документ, який підтверджує дату прибуття  \- 44 Clarendon Street, D2, Dublin https://goo\.gl/maps/kBapwRtvxhhhiu4h6 
-3\. ЛімерикSacred Heart Catholic Church \(061\) 315 812, https://maps\.app\.goo\.gl/bvim45rFfHSKmRLr7 До 17:00 в будні, на вихідним \- під час служіння\. 
-4\. Центр благодійності в Корку: Market St, Cloghmacsimon, Bandon, Co\. Cork та The SunFlower Midleton, Ireland P25 VR44
-5\. [Підтримка для мам, дитячі речі та візочки](https://www\.mums2mums\.ie/)
-6\. [Якщо вам терміново потрібні ліки, будь ласка, заповнюйте цю форму](https://forms\.gle/6kvAgRDX7Zq9hoXGA) 
+1\. Інформаційна [лінія українською мовою](https://www\.irishrefugeecouncil\.ie/ukrainian\-language\-information\-helpline) 
+2\. Дублін,Паляниця \(Palyanitsya\)  \- центр благодійності в Дубліні, де можна отримати одяг, іграшки та речі першої необхідності БЕЗКОШТОВНО\. При вході в магазин перевіряють, коли ви прибули, тому треба мати документ, який підтверджує дату прибуття  \- [44 Clarendon Street, D2, Dublin](https://goo\.gl/maps/kBapwRtvxhhhiu4h6) 
+3\. Дан Лірі \(Dun Laoghaire\) Новий Ukrainian hub – магазин безкоштовних речей та одягу для біженців\. 
+[Unit 2, Georges Mall, Dun Laoghaire Shopping Centre](https://goo\.gl/maps/QetJAuXTAqu4vdxg8) 
+4\. [Корк, хаб у Мідлтон, Midleton, County Cork, P25 VR44](https://www\.facebook\.com/The\-Sunflower\-Ukrainian\-Donation\-Hub\-104590398855783/)
+Графік роботи: Понеділок, середа, п’ятниця 18\-20, Субота 12\-16
+5\. Корк, Together Razem Center, Unit 2A, Kilnap Business Park, Old Mallow Rd, Corck T23V9K3
+Графік роботи: понеділок \- четвер\. Дізнатися більше можна на сайті: www\.together\-razem\.org
+6\. Cavan, Паляниця \(Palyanitsya\) – Old Dublin Road, Tullymongan Upper, Cavan, H12P4A7
+7\. [Лімерик, Sacred Heart Catholic Church](https://maps\.app\.goo\.gl/bvim45rFfHSKmRLr7), до 17:00 в будні, на вихідним \- під час служіння\. \(061\) 315 812\.   
+8\. Arklow, графство Віклоу, Паляниця \(Palyanitsya\) – 2nd Floor, Bridgewater Shopping Centre, Wicklow 
+9\. Palyanytsya is opening on 23rd April – Old Library Building, Wicklow Town\.
+10\. Tramore, графство Waterford, 3 Queen street \(двері поряд з бутіком Satina\)\. Запрошуємо з 17:30 до 19:30 з понеділка по п'ятницю
+11\. Підтримка для мам, дитячі речі та візочки \- https://www\.mums2mums\.ie/
+ 
 
 """,
 
@@ -216,6 +226,10 @@ https://www\.shelter4ua\.com/ua
 "зворотній зв’язок":"""
 ​Якщо ви не знайшли тему, що вас цікавить, [розкажіть нам у формі\.](https://forms\.gle/qxUEtuRgr8vLxasW7) Ми зробимо все, щоб доповнити бота необхідною інформацією
 """,
-"що подивитись в дубліні":"""Якщо ви живете в Дубліні або плануєте приїхати подивитись місто, ми зібрали [список рекомендацій з найгарнішими, найпопулярнішими місцями](https://docs\.google\.com/document/d/1oDW8PUhnlNpr6udtiqzG3ixE6zTqa1g0SRMYh2uwhv8/edit\#heading\=h\.f0mcwaa51y7o)
+
+
+
+"що подивитись в дубліні":"""
+Якщо ви живете в Дубліні або плануєте приїхати подивитись місто, ми зібрали [список рекомендацій з найгарнішими, найпопулярнішими місцями](https://docs\.google\.com/document/d/1oDW8PUhnlNpr6udtiqzG3ixE6zTqa1g0SRMYh2uwhv8/edit\#heading\=h\.f0mcwaa51y7o)
 """,
 }
