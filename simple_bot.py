@@ -39,8 +39,7 @@ def topics_keyboard():
                         types.KeyboardButton('Соціальні виплати'),
                         types.KeyboardButton('Проживання'),
                         types.KeyboardButton('Державні ресурси'),
-                        types.KeyboardButton('Що подивитись в Дубліні'),
-                        types.KeyboardButton('Зворотній зв’язок'))
+                        types.KeyboardButton('Що подивитись в Дубліні'))
     return topics_keyboard
 
 
